@@ -1,0 +1,29 @@
+[33mcommit 1b5c64a69254b74a78ab22d2019913aceec60f5a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Juan carrillo <carrillobarbosa@hotmail.com>
+Date:   Wed Aug 31 12:29:34 2022 -0500
+
+    ultumo
+
+[1mdiff --git a/.Histori.txt.swn b/.Histori.txt.swn[m
+[1mnew file mode 100644[m
+[1mindex 0000000..40c140d[m
+Binary files /dev/null and b/.Histori.txt.swn differ
+[1mdiff --git a/.Histori.txt.swo b/.Histori.txt.swo[m
+[1mnew file mode 100644[m
+[1mindex 0000000..03167be[m
+Binary files /dev/null and b/.Histori.txt.swo differ
+[1mdiff --git a/.Histori.txt.swp b/.Histori.txt.swp[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e68393c[m
+Binary files /dev/null and b/.Histori.txt.swp differ
+[1mdiff --git a/Histori.txt b/Histori.txt[m
+[1mindex c4a6676..46e2f45 100644[m
+[1m--- a/Histori.txt[m
+[1m+++ b/Histori.txt[m
+[36m@@ -1,3 +1,3 @@[m
+ HOla soy juan , y desarrollo actividades poderosas.[m
+ [m
+[31m-ahi voy baby... con poderes[m
+\ No newline at end of file[m
+[32m+[m[32mahi voy baby... con podere*******[m
+\ No newline at end of file[m
